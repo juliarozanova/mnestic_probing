@@ -27,7 +27,9 @@ python -m experiments.interventions.amnesic_probing
 ```
 
 To run the representation intervention step:
-```python -m.experiments.intervene_project```
+```
+python -m.experiments.intervene_project
+```
 
 To run the post-intervention evaluation:
 ```
